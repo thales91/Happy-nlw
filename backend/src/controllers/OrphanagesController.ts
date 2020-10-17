@@ -28,7 +28,7 @@ export default {
             const {
                 name,
                 latitude,
-                longitude,
+                longitude, 
                 about,
                 instruction,
                 opening_hours,

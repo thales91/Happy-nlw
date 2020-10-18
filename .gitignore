@@ -3,6 +3,9 @@ mobile/node_modules/**/*
 /aulas
 backend/upload/*
 mobile3/*
+mobile2/*
+web2
+web2/*
 
 *.env
 *.mp4

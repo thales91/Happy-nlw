@@ -1,6 +1,22 @@
 node_modules
 mobile/node_modules/**/*
 /aulas
+backend/upload/*
+mobile3/*
 
 *.env
 *.mp4
+
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
